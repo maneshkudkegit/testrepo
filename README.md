@@ -1,2 +1,3 @@
 # testrepo
-auther maneshkudke .smls.mcls rohit
+auther maneshkudke 
+welcome this is a first repo
