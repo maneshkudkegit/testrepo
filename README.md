@@ -1,2 +1,2 @@
 # testrepo
-auther maneshkudke .smls.mcls
+auther maneshkudke .smls.mcls rohit
